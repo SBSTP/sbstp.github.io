@@ -38,7 +38,7 @@ c'est une arnaque. Microsoft n'a aucune raison de vous appeler chez vous!)
 * [Nettoyage après sinistre](#nettoyage-apr-s-sinistre)
     * [Anti-virus](#anti-virus)
     * [Nettoyeur de publiciels](#nettoyer-de-publiciels)
-* [À long terme](#--long-terme)
+* [À long terme](#-long-terme)
 
 ## Prévention
 ### Installation de logiciels
